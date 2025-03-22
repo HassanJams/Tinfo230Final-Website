@@ -18,3 +18,4 @@ The project showcases our web development skills using **HTML** and **CSS** to c
 
 ## Technologies Used
 - **HTML5**
+- **CSS**
